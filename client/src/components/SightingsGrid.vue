@@ -35,6 +35,8 @@ export default {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
+	height: 450px;
+	overflow: scroll;
 }
 
 h2 {
